@@ -1,0 +1,2 @@
+# Nepali-OCR
+OCR
